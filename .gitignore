@@ -1,0 +1,8 @@
+# Microdatos del INEI: no se suben
+datos/
+
+# La base limpia se reconstruye con las skills; validacion.txt sí se versiona
+salidas/*.parquet
+
+.venv/
+__pycache__/
